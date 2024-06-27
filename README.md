@@ -32,12 +32,19 @@ Fully-Connected Layer with Sigmoid Activation
 Mobile Application: Brainscan
 Brainscan is an Android app developed using TensorFlow Lite. The app allows users to detect brain tumors from images taken with the device's camera or selected from the gallery. It performs real-time inference on the device, enabling offline functionality.
 
-TensorFlow Lite
+## TensorFlow Lite
 TensorFlow Lite is a lightweight version of TensorFlow designed for mobile and embedded devices. It allows for efficient deployment of machine learning models on resource-constrained devices, making it ideal for Brainscan.
 
-Accuracy
+# demo
+
+
+https://github.com/HasanRoknabady/Brain-Tumor-Detection-App/assets/78913791/e765f011-39d6-4b85-8e6d-2c170522b814
+
+
+
+## Accuracy
 By implementing the CNN model and applying noise reduction and contrast enhancement on the augmented dataset, we achieved an accuracy of 93% in brain tumor detection.
 
-Conclusion
+## Conclusion
 Our study demonstrates the feasibility and effectiveness of integrating image processing techniques and machine learning for brain tumor detection. The Brainscan mobile app extends this capability to end-users, potentially enhancing early diagnosis and improving patient outcomes.
 
